@@ -138,3 +138,6 @@ curl -X POST http://localhost:8000/predict \
 - **BILL_AMT1 à BILL_AMT6**: Montant des factures des 6 derniers mois
 - **PAY_AMT1 à PAY_AMT6**: Montant des paiements des 6 derniers mois
 
+👤 Auteur : Arsène
+
+📅 Année : 2024
